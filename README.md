@@ -16,6 +16,8 @@ Users will be able to input a name/ID for their device, which will be shown on t
 
 To create engagement and encourage users to use the app more, we will implement a score system similar to SnapChat. For every file sent/received, one point will be given to the users score, which will be displayed underneath the users name/ID. If a user has consecutively sent files to another user for three days or more, they will receive a streak, which will also be displayed next to their name. The streak will be broken if the user does not send a file to the other user for one day.
 
+A leaderboard will also be implemented and will display the top 10 users. It will update every 24 hours.
+
 ### Scalability and Expansion
 
 After the initial launch of the app, we can work to implement more features such as groups that will allow users to easily share files to multiple other users at the same time. We can also work to implement a history feature that will allow users to see all the files they have sent and received.
